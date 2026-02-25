@@ -1,7 +1,5 @@
 ﻿import requests
 
-print("kurcina")
-
 def extract_towns():
     towns_list = ["Berlin","Frankfurt","Hamburg","New York","Los Angeles","London","Paris","Tokyo",
     "Moscow","San Francisco","New Delhi","Beijing","Chicago","Milan","Rome"]
