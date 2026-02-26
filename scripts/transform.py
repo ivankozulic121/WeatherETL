@@ -34,4 +34,3 @@ df1 = transform_towns()
 df2 = transform_weather_data()
 
 mergedDF = mergeData(df1, df2)
-printDFSummary(mergedDF)
